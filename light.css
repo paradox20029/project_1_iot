@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+.light-box {
+    width: 200px;
+    height: 200px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    margin: 0 auto;
+}
